@@ -1,0 +1,23 @@
+{
+  "name": "todo-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khachaturr/Todo-app-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khachaturr/Todo-app-backend/issues"
+  },
+  "homepage": "https://github.com/Khachaturr/Todo-app-backend#readme"
+}
